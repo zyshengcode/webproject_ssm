@@ -1,0 +1,13 @@
+server:
+  port: 5553
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: product-service
+
+env: pt
+branch: master
