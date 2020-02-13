@@ -9,5 +9,5 @@ spring:
   application:
     name: product-service
 
-env: test
+env: dev
 branch: master
